@@ -12,7 +12,7 @@ if (!is_null($events['ESP'])) {
 	
 	send_LINE($events['ESP']);
 		
-	echo "OK";
+	echo "OKKKKKK";
 	}
 if (!is_null($events['events'])) {
 	echo "line bot";
